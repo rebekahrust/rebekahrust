@@ -39,6 +39,11 @@ well-structured, and usable.
 
 ## Selected Projects
 
+### Doctoral Dissertation
+**The Multidimensional Meaning of *Thumos* in Athenian Drama:
+An Integrated Approach of Conceptual Metaphor Theory and Semantic Vector Analysis**
+[Read the dissertation](https://www.proquest.com/docview/2884056295)
+
 ### Ancient Greek Semantic Vector Space Model
 An NLP research side project developed alongside my doctoral work,
 exploring semantic relationships within Ancient Greek corpora
