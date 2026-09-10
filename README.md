@@ -40,8 +40,8 @@ well-structured, and usable.
 ## Selected Projects
 
 ### Doctoral Dissertation
-**The Multidimensional Meaning of *Thumos* in Athenian Drama:
-An Integrated Approach of Conceptual Metaphor Theory and Semantic Vector Analysis**
+*The Multidimensional Meaning of *Thumos* in Athenian Drama:
+An Integrated Approach of Conceptual Metaphor Theory and Semantic Vector Analysis*
 [Read the dissertation](https://www.proquest.com/docview/2884056295)
 
 ### Ancient Greek Semantic Vector Space Model
