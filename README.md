@@ -7,29 +7,29 @@ technology, with experience in technical editing, computational text
 analysis, NLP, AI evaluation, cybersecurity, and enterprise systems.
 
 My academic background is in Ancient Greek literature and language.
-My doctoral research took a vector-based approach to understanding thumos –
+My doctoral research took a vector-based approach to understanding *thumos* –
 a complex Greek concept encompassing aspects of emotion, motivation, and cognition
 in Greek tragedy.
 
 Alongside my dissertation research, I pursued a computational NLP side project
-(Because I'm that much of a nerd) exploring a related question from a different direction:
+(because I'm that much of a nerd!) exploring a related question from a different direction:
 could vector-space models reveal meaningful semantic relationships within Ancient Greek texts?
 
-The computational project was not ultimately used as part of my dissertation methodology,
+The computational project was not ultimately used as part of my dissertation,
 but it was inspired by and developed alongside the same broader research interests.
 I experimented with Python, corpus processing, NLP, Word2Vec, FastText, and semantic vector-space modeling
 to explore how computational methods might complement traditional close reading and philological analysis.
 That combination — close reading, computational analysis, research, and careful interpretation of evidence — 
-continues to shape how I approach technical and research communication today.
+continues to shape how I approach my work today, pairing the power of modern computing with the nuance and judgment of human analysis.
 
 Professionally, I develop and edit technical documentation for complex
-enterprise technology environments, collaborating with engineers and
+enterprise technology environments, collaborating with engineers, cybersecurity specialists, and
 subject-matter experts to make technical information accurate,
 well-structured, and usable.
 
 ## Research & Technical Interests
 
-- Technical and research editing
+- Technical research, writing, and editing
 - AI/ML research communication
 - Natural language processing
 - Computational text analysis
