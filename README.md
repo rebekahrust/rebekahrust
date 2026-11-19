@@ -1,83 +1,20 @@
 # Rebekah Rust, Ph.D.
+**Lead Technical Writer · Researcher · Computational Text Analysis**
 
-**Technical Editor | Researcher | Technical Writer**
+I work where technical communication, research, and technology meet: documenting complex enterprise systems with engineers and security specialists, and applying NLP and vector-space methods to Ancient Greek texts.
 
-I work at the intersection of technical communication, research, and
-technology, with experience in technical editing, computational text
-analysis, NLP, AI evaluation, cybersecurity, and enterprise systems.
+My Ph.D. (NYU, 2023) studied θυμός (*thumos*), the Greek concept spanning emotion, motivation, and cognition, through conceptual metaphor theory and semantic vector analysis. I'm now completing that work as a reproducible computational study, pairing machine learning at corpus scale with the judgment of close reading.
 
-My academic background is in Ancient Greek literature and language.
-My doctoral research took a vector-based approach to understanding *thumos* –
-a complex Greek concept encompassing aspects of emotion, motivation, and cognition
-in Greek tragedy.
+## Selected projects
+- **[Dissertation](https://www.proquest.com/docview/2884056295)**: *The Multidimensional Meaning of Θυμός in Athenian Drama: An Integrated Approach of Conceptual Metaphor Theory and Semantic Vector Analysis*
+- **θυμός in Vector Space** *(in progress)*: FastText and Word2Vec models trained on ~32 million words of Ancient Greek, testing the dissertation's metaphor systems with multi-seed training, frequency-matched baselines, and a tested, reproducible pipeline.
+- **[Greek Tragedies TF-IDF](https://github.com/rebekahrust/greek-tragedies-TFIDF)**: TF-IDF stylometry of Greek drama; a 2016 project modernized in 2026.
+- **Technical Documentation Portfolio**: data platforms, developer experience, documentation architecture, docs-as-code.
 
-Alongside my dissertation research, I pursued a computational NLP side project
-(because I'm that much of a nerd!) exploring a related question from a different direction:
-could vector-space models reveal meaningful semantic relationships within Ancient Greek texts?
+## Interests
+Technical writing and editing · AI/ML research communication · NLP and computational text analysis · AI evaluation · Cybersecurity (CompTIA Security+ in progress)
 
-The computational project was not ultimately used as part of my dissertation,
-but it was inspired by and developed alongside the same broader research interests.
-I experimented with Python, corpus processing, NLP, Word2Vec, FastText, and semantic vector-space modeling
-to explore how computational methods might complement traditional close reading and philological analysis.
-That combination — close reading, computational analysis, research, and careful interpretation of evidence — 
-continues to shape how I approach my work today, pairing the power of modern computing with the nuance and judgment of human analysis.
+## Tools
+**Research & Data:** Python, scikit-learn, gensim (FastText, Word2Vec), NumPy, pytest, Jupyter, TEI XML
 
-Professionally, I develop and edit technical documentation for complex
-enterprise technology environments, collaborating with engineers, cybersecurity specialists, and
-subject-matter experts to make technical information accurate,
-well-structured, and usable.
-
-## Research & Technical Interests
-
-- Technical research, writing, and editing
-- AI/ML research communication
-- Natural language processing
-- Computational text analysis
-- Semantic vector-space models
-- AI-assisted writing and evaluation
-- Cybersecurity
-
-## Selected Projects
-
-### Doctoral Dissertation
-*The Multidimensional Meaning of *Thumos* in Athenian Drama:
-An Integrated Approach of Conceptual Metaphor Theory and Semantic Vector Analysis*
-[Read the dissertation](https://www.proquest.com/docview/2884056295)
-
-### Ancient Greek Semantic Vector Space Model
-An NLP research side project developed alongside my doctoral work,
-exploring semantic relationships within Ancient Greek corpora
-using computational text processing and vector-space methods,
-including Word2Vec and FastText.
-
-### Greek Tragedies TF-IDF
-An earlier computational text-analysis project using TF-IDF, document vectorization,
-Euclidean distance, and cosine similarity to explore patterns
-across Ancient Greek dramatic authors, plays, and characters.
-
-### Technical Documentation Portfolio
-Technical documentation examples focused on data platforms, developer
-experience, documentation architecture, and docs-as-code.
-
-## Tools & Methods
-
-**Research & Data:** Python, pandas, scikit-learn, Jupyter, XML, NLP,
-TF-IDF, Word2Vec, FastText
-
-**Technical Communication:** Markdown, Git/GitHub, HTML/CSS,
-information architecture, technical editing, documentation systems
-
-<!--
-**rebekahrust/rebekahrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Engineering & Docs:** Git and GitHub (command line), GitHub Codespaces, Markdown, docs-as-code, HTML/CSS, information architecture
